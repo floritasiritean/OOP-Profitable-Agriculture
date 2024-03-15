@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1671863310 source:c:\users\florina\desktop\poo-tema 24\poo-tema\ferma.cpp
+	"Ferma.h"
+
+1671864590 c:\users\florina\desktop\poo-tema 24\poo-tema\ferma.h
+	<iostream>
+	<cstring>
+
+1671866346 source:c:\users\florina\desktop\poo-tema 24\poo-tema\floarea_soarelui.cpp
+	"Floarea_soarelui.h"
+
+1671866329 source:c:\users\florina\desktop\poo-tema 24\poo-tema\grau.cpp
+	"Grau.h"
+
+1671866305 source:c:\users\florina\desktop\poo-tema 24\poo-tema\porumb.cpp
+	"Porumb.h"
+
+1671863669 source:c:\users\florina\desktop\poo-tema 24\poo-tema\main.cpp
+	"Ferma.h"
+	"Grau.h"
+	"Porumb.h"
+	"Floarea_soarelui.h"
+	"Orz.h"
+
+1671864107 c:\users\florina\desktop\poo-tema 24\poo-tema\grau.h
+	"Ferma.h"
+
+1671864327 c:\users\florina\desktop\poo-tema 24\poo-tema\porumb.h
+	"Ferma.h"
+
+1671864327 c:\users\florina\desktop\poo-tema 24\poo-tema\floarea_soarelui.h
+	"Ferma.h"
+
+1671866275 source:c:\users\florina\desktop\poo-tema 24\poo-tema\orz.cpp
+	"Orz.h"
+
+1671864327 c:\users\florina\desktop\poo-tema 24\poo-tema\orz.h
+	"Ferma.h"
+
